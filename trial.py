@@ -1,10 +1,18 @@
-mydict = {'carl':40,
-          'alan':2,
-          'bob':1,
-          'danny':3}
+import sys
+from nltk import pos_tag
+from nltk import word_tokenize
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
 
-# for key, value in sorted(mydict.iteritems(), key = lambda (k,v): (v,k)):
-#     print "%s: %s" % (key, value)
+# def clean(tokens):
+# 	sw = set(stopwords.words('english'))
+# 	wnl = WordNetLemmatizer()
+# 	for i in range(len(tokens)):
+# 		tokens[i] = [word for word in tokens[i] if word not in sw]
+# 	return tokens
 
-for key, value in sorted(mydict.items(), key = lambda x: x[1], reverse = True):
-	print(key, value)
+
+# wnl = WordNetLemmatizer()
+# print(wnl.lemmatize(['cats', 'cacti']))
+
+print(pos_tag(["Hello"]))
