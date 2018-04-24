@@ -6,6 +6,7 @@ The project includes implementation of a bag-of-words strategy and an improved s
 Input:
 - Set of FAQs and Answers
 - User’s input natural language question/statement 
+- None
 
 Output:
 - One or more FAQs and Answers that match the user’s input question/statement
