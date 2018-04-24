@@ -1,5 +1,6 @@
 import sys
 from scipy import spatial
+from nltk import sent_tokenize
 
 def tokenize_corpus(fileName):
 	"""Converts the given corpus into tokens
@@ -32,7 +33,7 @@ def create_questions_and_answers(tokens):
 			last_punctuation = tokens[i]
 		if(tokens[i] == '?'):	
 			if(last_punctuation == '?'):
-				for k in range(last_question_mark_index + 1, i):
+				for k in range(last_question_mark_index +1, i+1):
 					questions_list[q - 1][x] = tokens[k]
 					x += 1
 				# q += 1
@@ -42,7 +43,7 @@ def create_questions_and_answers(tokens):
 				# print(questions_list)
 				# print(last_question_mark_index)
 				# print(last_period_index)
-				for k in range(last_question_mark_index + 1 , last_period_index):
+				for k in range(last_question_mark_index+1, last_period_index):
 					answers_list[a][x] = tokens[k]
 					x += 1
 				a += 1
@@ -51,7 +52,7 @@ def create_questions_and_answers(tokens):
 			if (flag == 0):
 				x = 0	
 				# print(answers_list)
-				for k in range(last_period_index + 1, last_question_mark_index):
+				for k in range(last_period_index + 1, last_question_mark_index+1):
 					# print(q, x , k)
 					questions_list[q][x] = tokens[k]
 					x += 1
@@ -62,7 +63,7 @@ def create_questions_and_answers(tokens):
 
 def find_Match(qa_bag,tokens_S):
     cosine=[]
-    count_list = []
+    count_dict = {}
     
     for i in range(len(qa_bag)):
         #cosine[i] = spatial.distance.cosine(qa_bag[i], tokens_S)
@@ -71,11 +72,41 @@ def find_Match(qa_bag,tokens_S):
         	for k in tokens_S:
         		if (k.lower() == j.lower()):
         			count += 1
-        count_list.append(count) 
+        count_dict[i] = count
 
-    print(len(count_list), count_list)
+    for i in tokens_S:
+    	count = 0
+    	for j in range(len(qa_bag)):
+    		for k in qa_bag[j]:
+    			if(k.lower() == i.lower()):
+    				count += 1
+    # print(count_dict)
+    return count_dict
+
+def ranking(count_dict, merged_qa_bag):
+	rank_list = []
+	for key, value in sorted(count_dict.items(), key = lambda x: x[1], reverse = True):
+		rank_list.append(key)
+
+	for i in range(10):
+		print("\n", merged_qa_bag[rank_list[i]])
+	return rank_list
+
+def merge(qa_bag):
+	merged_qa_bag = []
+	for j in range(len(qa_bag)):
+		sentence = ""
+		for i in qa_bag[j]:
+			sentence+=(i+ " ")
+		merged_qa_bag.append(sentence)
+
+	return merged_qa_bag[:-1]
+		
+
+
 
 if __name__ == '__main__':
+
 	fileName = 'QuestionBank.txt'
 	tokens = tokenize_corpus(fileName)
 	# print(tokens)
@@ -89,7 +120,13 @@ if __name__ == '__main__':
 	s = str(input("Enter State value "))
 	for token in s.split():
 		tokens_S.append(token)
-	find_Match(qa_bag, tokens_S)
+	count_dict = find_Match(qa_bag, tokens_S)
+	# print(ranking(count_dict, qa_bag))
+
+	merged_qa_bag = merge(qa_bag)
+	ranking(count_dict, merged_qa_bag)
+	
+	
 
 
 	
