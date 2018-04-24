@@ -64,23 +64,20 @@ def create_questions_and_answers(tokens):
 def find_Match(qa_bag,tokens_S):
     cosine=[]
     count_dict = {}
-    
+    print("Words matched in question-answer pairs:")
     for i in range(len(qa_bag)):
         #cosine[i] = spatial.distance.cosine(qa_bag[i], tokens_S)
-        count = 0
-        for j in qa_bag[i]:
-        	for k in tokens_S:
-        		if (k.lower() == j.lower()):
-        			count += 1
-        count_dict[i] = count
+        total_matches = 0
+        for k in tokens_S:
+        	for j in qa_bag[i]:
+        		if (k.lower() == j.lower() and k != '?'):
+        			total_matches += 1
+        			print(i, k.lower(),', ', end = '')
 
-    for i in tokens_S:
-    	count = 0
-    	for j in range(len(qa_bag)):
-    		for k in qa_bag[j]:
-    			if(k.lower() == i.lower()):
-    				count += 1
-    # print(count_dict)
+        			break
+        count_dict[i] = total_matches
+    print("\n\n question-answer pair: total matches")
+    print(count_dict)
     return count_dict
 
 def ranking(count_dict, merged_qa_bag):
@@ -89,7 +86,8 @@ def ranking(count_dict, merged_qa_bag):
 		rank_list.append(key)
 
 	for i in range(10):
-		print("\n", merged_qa_bag[rank_list[i]])
+		print('\nquestion-answer pair index -  ', rank_list[i],"\n",i+1,". ", merged_qa_bag[rank_list[i]])
+
 	return rank_list
 
 def merge(qa_bag):

@@ -1,0 +1,38 @@
+(base) Shubhams-MacBook-Pro:FAQ Shubham$ python test.py
+Enter State value Hello how are you ?
+Words matched in question-answer pairs:
+1 you , 2 are , 3 are , 3 you , 4 how , 5 you , 6 are , 6 you , 7 you , 8 are , 8 you , 9 are , 9 you , 10 how , 10 are , 10 you , 11 how , 12 how , 12 are , 12 you , 13 are , 13 you , 14 are , 15 how , 15 are , 16 are , 18 are , 19 are , 20 are , 21 are , 21 you , 22 are , 23 how , 23 are , 26 you , 29 you , 30 how , 30 are , 31 how , 31 you , 32 how , 32 you , 33 how , 33 are , 33 you , 34 you , 35 how , 35 you , 36 are , 36 you , 37 how , 37 you , 38 how , 39 how , 39 you , 40 how , 40 you , 41 are , 41 you , 42 are , 43 are , 43 you , 44 how , 44 you , 45 how , 45 are , 46 you , 47 you , 48 are , 
+
+ question-answer pair: total matches
+{0: 0, 1: 1, 2: 1, 3: 2, 4: 1, 5: 1, 6: 2, 7: 1, 8: 2, 9: 2, 10: 3, 11: 1, 12: 3, 13: 2, 14: 1, 15: 2, 16: 1, 17: 0, 18: 1, 19: 1, 20: 1, 21: 2, 22: 1, 23: 2, 24: 0, 25: 0, 26: 1, 27: 0, 28: 0, 29: 1, 30: 2, 31: 2, 32: 2, 33: 3, 34: 1, 35: 2, 36: 2, 37: 2, 38: 1, 39: 2, 40: 2, 41: 2, 42: 1, 43: 2, 44: 2, 45: 2, 46: 1, 47: 1, 48: 1, 49: 0}
+
+question-answer pair index -   10 
+ 1 .  How do I get the Useful , Funny , and Cool buttons at the bottom of my reviews ? Users can vote on reviews that they think are - you guessed it - Useful , Funny or Cool . You can't vote on your own reviews , but once others begin to realize just how brilliant you are , you'll be racking up the Useful , Funny and Cool votes in no time 
+
+question-answer pair index -   12 
+ 2 .  Are reviews displayed in any particular order ? Users can decide for themselves how best to order reviews by clicking one of the links just above the reviews ( e . g . , date , rating , voting , etc . ) . Yelp's default sort order takes a number of factors into account and reflects our own attempt to present reviews in a meaningful order . For example , we'll favor reviews from your friends and the users you follow . The sort algorithm does not take into account whether the business is an advertiser or not 
+
+question-answer pair index -   33 
+ 3 .  How do I change my email address ? Your email addresses and password are found under " Account Settings " which appears when you click on your user name in the upper right section of any page . Click that link and you will be taken to your Account Settings page , or click here to go directly to your email addresses 
+
+question-answer pair index -   3 
+ 4 .  What is the " Yelp Elite Squad " ? The Yelp Elite Squad is our way of recognizing and rewarding yelpers who are active evangelists and role models , both on and off the site . Elite - worthiness is based on a number of things , including well - written reviews , great tips on mobile , a fleshed - out personal profile , an active voting and complimenting record , and playing nice with others . Members of the Elite Squad are designated by a shiny Elite badge on their account profile . If you think you or someone you know might be ready to be Yelp Elite , visit https : //en . yelp . my/elite 
+
+question-answer pair index -   6 
+ 5 .  What if I had a bad experience ? Can I say something negative ? We like to hear about the good , the bad , and everything in between . Be sure to include all the relevant facts and details , and don't embellish your story for effect . We are big believers in freedom of speech , but beware the legal consequences if you post false information 
+
+question-answer pair index -   8 
+ 6 .  Can business owners publicly comment on my reviews ? We've created a feature that allows business owners to publicly comment on a review . You are able to message them back if they post a public comment on your review . My review doesn't show on the business's profile page unless I'm logged in 
+
+question-answer pair index -   9 
+ 7 .  What's going on ? If your review isn't showing up on a business's page unless you're logged in , your review isn't one of the reviews we are showcasing today for other users . Don't worry : even if your review isn't one of the millions we currently recommend , other people can still see it on your profile page and it might be recommended on another day . You can read more in the " Recommended Reviews " section below 
+
+question-answer pair index -   13 
+ 8 .  Do reviews ever get removed ? Users can remove their own reviews , and our user support team can also remove the ones that violate our Content Guidelines or Terms of Service . Whether a business is a Yelp advertiser has no impact on this whatsoever . We also use automated software to recommend the most helpful and reliable reviews among the millions we get . The ones that aren’t selected are featured less prominently on a business’s page and don’t factor into the business’s overall star rating , but they are not removed from the site . You can read more in the “Recommended Reviews” section below 
+
+question-answer pair index -   15 
+ 9 .  How does Yelp decide which reviews to recommend ? We use automated software developed by our engineers to recommend reviews from the Yelp community . The software looks at dozens of different signals , including various measures of quality , reliability , and activity on Yelp . Most of all , however , it’s looking for people who are intrinsically motivated to share the wide range of rich and detailed experiences they have every day with local businesses 
+
+question-answer pair index -   21 
+ 10 .  Should I ask my customers to write reviews for me on Yelp ? No , you shouldn’t ask your customers to post reviews on Yelp . For one thing , most businesses tend to ask their happiest customers to write reviews , not the unhappy ones . These self - selected reviews tell only part of the story , and we don’t think that’s fair to consumers . We would much rather hear from members of the Yelp community who are inspired to talk about their experiences without a business owner’s encouragement . As a result , you shouldn’t be surprised if our software fails to recommend the reviews that you’ve asked your customers to write . Your best bet to get high quality and unbiased reviews about your business is to provide a memorable and amazing customer experience – it has nothing to do with asking your customers to post on Yelp 
+(base) Shubhams-MacBook-Pro:FAQ Shubham$ 
