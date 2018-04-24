@@ -1,0 +1,169 @@
+What is Yelp ? 
+Yelp is an online urban city guide that helps people find cool places to eat ,  shop ,  drink ,  relax and play ,  based on the informed opinions of a vibrant and active community of locals in the know .  Yelp is the fun and easy way to find ,  review and talk about what's great — and not so great — in your world . 
+
+Is Yelp free ? 
+Yes !   Other than some of our advertising features ,  you can use the site for free . 
+
+Who uses Yelp ? 
+You'll find a wide range of people on Yelp ,  including locals who are   "   in the know  "    about what's cool and happening in their city ,  visitors who want to get an insider's local perspective ,  and anyone trying to find a great local business . 
+
+What is the   "   Yelp Elite Squad  "    ? 
+The Yelp Elite Squad is our way of recognizing and rewarding yelpers who are active evangelists and role models ,  both on and off the site .  Elite - worthiness is based on a number of things ,  including well - written reviews ,  great tips on mobile ,  a fleshed - out personal profile ,  an active voting and complimenting record ,  and playing nice with others .  Members of the Elite Squad are designated by a shiny Elite badge on their account profile .  If you think you or someone you know might be ready to be Yelp Elite ,  visit https : //en . yelp . my/elite . 
+
+Is Yelp just a place for rants ?  How do the reviews break down by rating ? 
+We crunched the numbers and here's what we found  (   as of Q4 2017 )     . 
+The numbers don't lie :  people love to talk about the things they love !  
+
+
+What should I review on Yelp ? 
+Any local business ,  service or place with a physical presence is fair game .  Think :  restaurants ,  shops ,  bars ,  salons ,  spas ,  dentists ,  mechanics ,  parks ,  museums ,  etc .  Make sure you take a look at our Content Guidelines before you start writing . 
+
+What if I had a bad experience ?  Can I say something negative ? 
+We like to hear about the good ,  the bad ,  and everything in between .  Be sure to include all the relevant facts and details ,  and don't embellish your story for effect .  We are big believers in freedom of speech ,  but beware the legal consequences if you post false information . 
+
+Does Yelp mind if I get a freebie in exchange for my review ? 
+Please don't write a five - star review of your local watering hole in exchange for a free drink .  That said ,  if you independently luck into a free drink or two because of your charming personality ,  by all means ,  enjoy the largesse but don't forget to mention the free perks when writing your review . 
+
+Can business owners publicly comment on my reviews ? 
+We've created a feature that allows business owners to publicly comment on a review .  You are able to message them back if they post a public comment on your review . 
+
+My review doesn't show on the business's profile page unless I'm logged in .  What's going on ? 
+If your review isn't showing up on a business's page unless you're logged in ,  your review isn't one of the reviews we are showcasing today for other users .  Don't worry :  even if your review isn't one of the millions we currently recommend ,  other people can still see it on your profile page and it might be recommended on another day .  You can read more in the   "   Recommended Reviews  "    section below . 
+
+How do I get the Useful ,  Funny ,  and Cool buttons at the bottom of my reviews ? 
+Users can vote on reviews that they think are  -  you guessed it  -  Useful ,  Funny or Cool .  You can't vote on your own reviews ,  but once others begin to realize just how brilliant you are ,  you'll be racking up the Useful ,  Funny and Cool votes in no time . 
+
+How do I publish my reviews to Facebook or Twitter ? 
+Easy !   Go to the External Applications page in Account settings and following the instructions there . 
+
+Are reviews displayed in any particular order ? 
+Users can decide for themselves how best to order reviews by clicking one of the links just above the reviews  (   e . g .  ,  date ,  rating ,  voting ,  etc .  )     .  Yelp's default sort order takes a number of factors into account and reflects our own attempt to present reviews in a meaningful order .  For example ,  we'll favor reviews from your friends and the users you follow .  The sort algorithm does not take into account whether the business is an advertiser or not . 
+
+Do reviews ever get removed ? 
+Users can remove their own reviews ,  and our user support team can also remove the ones that violate our Content Guidelines or Terms of Service .  Whether a business is a Yelp advertiser has no impact on this whatsoever .  We also use automated software to recommend the most helpful and reliable reviews among the millions we get .  The ones that aren’t selected are featured less prominently on a business’s page and don’t factor into the business’s overall star rating ,  but they are not removed from the site .  You can read more in the “Recommended Reviews” section below . 
+
+Does Yelp recommend every review from every user ? 
+No .  We get millions of reviews from our users ,  and our job is to showcase the ones that best reflect the opinions of the Yelp community .  These recommended reviews comprise about three quarters of the reviews we get .  The remaining reviews are accessible from a link at the bottom of each business’s profile page ,  but they don’t factor into a business’s overall star rating or review count . 
+
+Note that this approach is very different from other sites that tend to feature every single negative rant and positive rave .  We do our best to nurture a community of users who actively contribute reliable and useful content . 
+
+How does Yelp decide which reviews to recommend ? 
+We use automated software developed by our engineers to recommend reviews from the Yelp community .  The software looks at dozens of different signals ,  including various measures of quality ,  reliability ,  and activity on Yelp .  Most of all ,  however ,  it’s looking for people who are intrinsically motivated to share the wide range of rich and detailed experiences they have every day with local businesses . 
+
+Why would a review not be recommended ? 
+There are a number of reasons why a review might not be recommended .  For example ,  the review might have been posted by a less established user ,  or it may seem like an unhelpful rant or rave .  Some of these reviews are fakes  (   like the ones we see originating from the same computer )     and some suggest a bias  (   like the ones written by a friend of the business owner )     ,  but many are real reviews from real customers who we just don’t know much about and therefore can’t recommend . 
+
+Do Yelp advertisers get preferential treatment ? 
+No .  Our recommendation software treats advertisers and non - advertisers exactly the same .  You’ll find plenty of Yelp advertisers with negative reviews ,  and plenty of non - advertisers with five - star ratings across the board .  Furthermore ,  there is zero relationship between the timing of when a review gets recommended and when a business decides to – or declines to – advertise :  reviews can be recommended or not recommended days ,  weeks ,  or even months after they were first posted ,  and your friendly Yelp sales representative doesn’t have any influence over when that might happen . 
+
+In short ,  there is no relationship between reviews and anything having to do with Yelp Ads or the Yelp Ads sales process .  Period . 
+
+Does Yelp recommend more positive or negative reviews ? 
+About 80 %      of the reviews we recommend are three stars or higher ,  but that’s mostly just because our users write more positive reviews in the first place .  Indeed ,  researchers at Harvard and Boston University debunked the myth that Yelp skews negative by showing that Yelp recommended far more positive than negative reviews . 
+
+Of course ,  a number of positive reviews never make the cut either – that’s perfectly normal too ,  and assuming there’s no funny business going on  (   like someone writing reviews from multiple accounts )     ,  it’s just the normal operation of the recommendation software trying to highlight the most helpful and reliable reviews regardless of star rating . 
+
+Why are different reviews recommended on different days ? 
+Our recommendation software runs on a daily basis ,  so the results can change on a daily basis .  You’ll sometimes see situations where a review is recommended or not recommended days ,  weeks ,  or even months after it is initially posted .  For example ,  our recommendation software might pick up new information that makes a reviewer seem more trustworthy than was initially assumed .  The reverse also happens .  Sometimes ,  the information we have about a reviewer grows stale or is incomplete ,  so the software can take that into account too . 
+
+The important point here is that our recommendation software routinely produces different results on different days based on the information that feeds it . 
+
+Are employees at Yelp allowed to manually override the recommendation software to recommend  (   or not recommend )     a particular review ? 
+No .  Our recommendation software is automated precisely so that it can apply the same objective standards to every business and every review without being overridden by someone’s personal preferences .  As a separate matter ,  our User Support team can manually remove reviews that violate our Content Guidelines ,  but there is nothing they can do to monkey with our recommendation software or override it . 
+
+Should I ask my customers to write reviews for me on Yelp ? 
+No ,  you shouldn’t ask your customers to post reviews on Yelp . 
+
+For one thing ,  most businesses tend to ask their happiest customers to write reviews ,  not the unhappy ones .  These self - selected reviews tell only part of the story ,  and we don’t think that’s fair to consumers .  We would much rather hear from members of the Yelp community who are inspired to talk about their experiences without a business owner’s encouragement . 
+
+As a result ,  you shouldn’t be surprised if our software fails to recommend the reviews that you’ve asked your customers to write .  Your best bet to get high quality and unbiased reviews about your business is to provide a memorable and amazing customer experience – it has nothing to do with asking your customers to post on Yelp . 
+
+Why doesn’t Yelp recommend every review ? 
+There are plenty of review sites that collect and display as many reviews from as many reviewers as possible .  Yelp is different ;  we try to emphasize a smaller selection of reviews in an effort to keep the focus on helpful and reliable consumer experiences from our core community . 
+
+We think we’re doing a good job given the sheer volume of reviews we receive and the inevitable differences of opinion that people have when it comes to reviews .  At the end of the day ,  it doesn’t really matter what we think — consumers will only use Yelp if the experiences they read about on Yelp match the experiences they have in real life . 
+ 
+
+Where does Yelp get information about how expensive a business is ,  whether it's good for kids ,  etc  ? 
+These subjective attributes are voted on by users who have reviewed the business .  They can change over time as more people review the business and cast more votes .  The more objective attributes that we show in the business listing  (   whether the business accepts credit cards or is wheelchair accessible )     can be set by the business owner if he/she has signed up for a free Business Owner's Account . 
+
+Do business owners have a voice on Yelp ? 
+Every business owner can claim their business and set up a business owner’s account on Yelp .  The free tools provided allow a business owner to respond to reviews ,  post descriptive information about their business ,  add photos ,  and track activity and customer leads from their Yelp page .  This is all available at biz . yelp . com . 
+
+Can businesses advertise on Yelp ? 
+No ,  we do not have this feature in the UK yet . 
+
+Will Yelp remove or reorder bad reviews if a business pays for advertising ? 
+No .  You can't pay us to remove or reorder your bad reviews — it's just that simple .  It's worth pointing out some additional checks and balances that we build into the system :  among other things ,  we separate the revenue side of our business from the content side of our business ,  just as a newspaper might put a firewall between their advertising and reporting functions . 
+
+To rank highly in Yelp search results ,  do businesses have to buy advertising ? 
+Yelp search result pages often feature one or more clearly labeled Yelp Ads ,  but Yelp’s numbered search results  (   all of the other listings in white background )     have absolutely nothing to do with who is paying us .  For example ,  check out this search result for the very popular “Restaurant ,  San Francisco” query .  As of March 2014 ,  none of the resulting top 10 restaurants is a Yelp advertiser . 
+
+Can Yelp salespeople manipulate reviews for prospective advertisers ? 
+We have every reason to trust the smart ,  hard - working and ethical salespeople who work at Yelp .  Beyond this ,  to avoid even an appearance of impropriety ,  we've taken several steps to ensure no member of our team is tempted to game the system .  Specifically : 
+
+Yelp salespeople don't have back - end administrative privileges that would allow them to alter the Yelp review database . 
+Every Yelp salesperson signs an agreement that s/he will not write reviews of any business while employed by Yelp .  We trust our teammates in sales to live up to this commitment .  We also have several monitoring systems in place to help us ensure nobody  (   accidentally or otherwise )     crosses this line . 
+If we ever did find out that a salesperson was trying to game the system ,  their employment would end that day . 
+When a new advertiser signs up with Yelp ,  that business owner then participates in a new orientation webinar that ,  in addition to providing further information about Yelp ,  confirms that reviews have nothing to do with advertising . 
+
+Do Yelp salespeople take “no” for an answer ? 
+Our salespeople call local businesses to introduce our targeted advertising programs ;  we’re trying to establish warm new relationships ,  never to irritate someone .  Persistence is part of sales ,  and if a business manager asks one of our salespeople to “keep in touch” or “call next week , ” we will !   On the other hand ,  our salespeople don’t like wasting time  (   yours or theirs )     ,  so if you tell your Yelp sales rep to call back in three months ,  we’ll do that .  And if you really want us never to call again ,  we will add you to our “Do Not Call” list .  Simply notify the member of our sales team who contacted you ,  or send in your request . 
+
+How is the ranking of search results determined ? 
+Yelp's search results are based on an algorithm that is designed to provide the best results based on a number of different factors including review text ,  ratings ,  and number of reviews .  We are constantly working on improving our search results so that we can deliver the most relevant local results to our users . 
+
+How do I verify my Yelp account ? 
+When you've completed the registration process ,  you will receive an email with a special link .  Click it to verify your account .  When the verification message arrives in your email in - box ,  click the verification link ,  or copy and paste it into your browser .  Your account will be verified at this point .  If it doesn't work please let us know . 
+
+How do I change my basic account information ? 
+To edit your profile or to change your account preferences ,  log in and click your user name that appears at the top of any page  (   next to   "   Friends' Activity  "    )     and then choose   "   Account Settings  "    .  You will be able to edit your account preferences here . 
+
+How do I change my email address ? 
+Your email addresses and password are found under   "   Account Settings  "    which appears when you click on your user name in the upper right section of any page .  Click that link and you will be taken to your Account Settings page ,  or click here to go directly to your email addresses . 
+
+Who can find me and my reviews on Yelp ? 
+Everyone can read your reviews and take a look at your account profile ,  photos ,  bookmarks ,  and other content that you've contributed to the site .  Your public profile will be tied to your first name and last initial  (   e . g .  ,    "   Jeremy S .   "    )     .  Other than just stumbling upon you and your great reviews by browsing the site ,  other people can find you using the   "   Member Search  "    feature ,  Facebook's   "   Instant Personalization  "    feature ,  and the various features that allow users to add their friends on Yelp .  You can manage your privacy settings here . 
+
+How do I close my account on Yelp ? 
+To close your user account ,  please click here .  If you don't mind telling us ,  we'd love to hear why you want to leave .  While Yelp continues to evolve your feedback makes a big difference .  If there's something you found unsatisfying about Yelp ,  tell us about it and we'll do our best to try to do better . 
+
+
+What are check - in offers ? 
+Certain businesses offer discounts when yelpers check in to that business .  You can tell which places provide these offers by viewing their business page in the mobile app or by tapping   "   Check - In Offers  "    on the Nearby screen . 
+
+How do I earn a check - in offer ? 
+When you check in to a business that offers one ,  you'll immediately be presented with a check in offer certificate in the mobile app .  You can choose to use it at that time ,  or save it to use later . 
+
+How do I redeem a check - in offer ? 
+From your mobile app ,  visit the Deals section and tap   "   My Deals  "    ,  which holds all of the offers you've earned .  Simply show your phone to an employee of the business to redeem it
+
+How do I earn badges ? 
+You can earn badges by checking in to businesses .  What type of badge you get depends on what businesses you check into  -  for example ,  checking in to many sushi places will earn you the Sushi Sensei badge .  You can also earn certain badges by checking into businesses along with your friends . 
+
+Where can I see all the badges that I or another yelper has earned ? 
+You can view your badges by opening the Yelp mobile app for iPhone ,  Android ,  or BlackBerry ,  and tapping the About Me section .  From here you can see how many badges you've earned .  You can also view other peoples' badges by viewing their user profile from the mobile app . 
+Why does Yelp ask for access to my contacts data ? 
+If you are logged in to Yelp ,  you have the option to find friends from your phone's contact list that are also on Yelp .  You can then decide whether to add them as friends on your Yelp account .  This info is also used to auto - populate contact data when adding a Yelp Deals gift for your friends ,  as well as when placing a reservation with OpenTable ,  in order to make filling out this information faster and easier .  No emails are sent to anyone in your address book without your authorization ,  we don't expose this contact data to any marketers ,  and we don't store this contact data any longer than it takes to process the transaction . 
+
+Why does Yelp ask for access to my device's photos & camera ? 
+This allows the app to use your device's camera to upload photos of businesses to Yelp .  Additionally ,  the Yelp Monocle feature accesses the camera to overlay business information on - screen wherever the user points their phone .  No photos are taken or retrieved without your knowledge ,  and all camera actions require the user to initiate them . 
+
+Why does Yelp ask for access to my device's SD card ? 
+Certain images like business photos are sometimes cached and stored on your phone for faster retrieval .  Photos you take are also sometimes stored as they're uploaded .  We always remove these photos from your SD card shortly after the upload finishes . 
+How do I become a Regular at a business ? 
+You can become a Regular at a business by checking in there two or more times in the past few months .  You can lose your Regular title if you stop checking in to the business . 
+
+What are Regular rankings and how do I move up in rank ? 
+Regulars are ranked according to how many total check - ins they have at a business with more recent check - ins counting more .  To move up in rank simply visit the business frequently and remember to check - in .  The top Regular  (   the Regular ranked #1 )     gets to wear the crown as the Duke or Duchess of the business . 
+ 
+What does Yelp do with my personal information ? 
+We take privacy very seriously and we hate spam even more than you do .  Please take the time to review our privacy policy so you can see exactly what we do with your personal information . 
+
+If you receive spammy messages from another Yelp member ,  or if you receive a message that is harassing ,  abusive ,  or contains a violation of our Terms of Service ,  please report it here . 
+
+Who can contact me on Yelp ? 
+Other users can contact you on Yelp ,  including the businesses you review .  If you'd prefer not to be contacted by business owners ,  you may change your settings here .  You can also block future messages from specific users by selecting   "   Block User  "    under their account name when viewing a message from them . 
+
+I'm not happy with what consumers are saying about me on Yelp  -  should I get my lawyer involved ? 
+We have nothing but love and respect for lawyers  (   ahem )     ,  but you may want to consider the following .  First ,  beware of the so - called Streisand Effect ,  which can quickly turn a manageable customer service problem into an unmanageable disaster .  Lawyers love to draft threatening letters .  However ,  far from being cowed ,  recipients will sometimes go public with them as a warning to others not to patronize your business .  Second ,  beware of lawyers who are quick to file lawsuits without telling their clients that it can cost them dearly  (   see example here )     .  Last ,  take a step back :  if you find yourself insisting that a review is obviously untrue ,  there’s every reason to think that your customers will draw the same conclusion as you .  Even if they don’t ,  Yelp’s recommendation software is always on the prowl ,  and it may eventually be able to put enough pieces of the puzzle together over the long - term to avoid recommending the bogus review . 
