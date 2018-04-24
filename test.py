@@ -1,6 +1,8 @@
+import sys
+from scipy import spatial
+from nltk import sent_tokenize
 
-
-def tokenize_corpus():
+def tokenize_corpus(fileName):
 	"""Converts the given corpus into tokens
     Splits the corpus on the basis of whitespace.
 
@@ -10,7 +12,8 @@ def tokenize_corpus():
         tokens: A list of tokens
     """
 	tokens = []
-	file = open(r"C:\\Users\priya\Documents\GitHub\FAQ-Semantic-Matching\QuestionBank.txt", encoding="utf8")
+	# file = open(r"C:\\Users\priya\Documents\GitHub\FAQ-Semantic-Matching\QuestionBank.txt", encoding="utf8")
+	file = open(fileName, "r")
 	for token in file.read().split():
 		tokens.append(token)
 	file.close()
@@ -103,8 +106,8 @@ def merge(qa_bag):
 
 if __name__ == '__main__':
 
-	
-	tokens = tokenize_corpus()
+	fileName = 'QuestionBank.txt'
+	tokens = tokenize_corpus(fileName)
 	# print(tokens)
 	questions_list, answers_list = create_questions_and_answers(tokens)
 	qa_bag = []
