@@ -87,7 +87,7 @@ def ranking(count_dict, merged_qa_bag):
 		rank_list.append(key)
 
 	for i in range(10):
-		print('\nquestion-answer pair index -  ', rank_list[i],"\n",i+1,". ", merged_qa_bag[rank_list[i]])
+		print('\n \nquestion-answer pair index -  ', rank_list[i],"\n",i+1,". ", merged_qa_bag[rank_list[i]])
 
 	return rank_list
 
