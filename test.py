@@ -12,8 +12,8 @@ def tokenize_corpus(fileName):
         tokens: A list of tokens
     """
 	tokens = []
-	# file = open(r"C:\\Users\priya\Documents\GitHub\FAQ-Semantic-Matching\QuestionBank.txt", encoding="utf8")
-	file = open(fileName, "r")
+	file = open(r"C:\\Users\priya\Documents\GitHub\FAQ-Semantic-Matching\QuestionBank.txt", encoding="utf8")
+	#file = open(fileName, "r")
 	for token in file.read().split():
 		tokens.append(token)
 	file.close()
